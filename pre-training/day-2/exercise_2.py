@@ -1,9 +1,9 @@
 students = [
-    {"name": "Alice",   "subject": "Math",    "scores": [88, 92, 95, 90]},
-    {"name": "Bob",     "subject": "Science", "scores": [72, 68, 75, 80]},
-    {"name": "Carol",   "subject": "Math",    "scores": [95, 98, 92, 97]},
-    {"name": "David",   "subject": "History", "scores": [60, 65, 70, 58]},
-    {"name": "Eva",     "subject": "Science", "scores": [83, 87, 80, 90]},
+    {"name": "Haseeb",   "subject": "Math",    "scores": [88, 92, 95, 90]},
+    {"name": "Ali ",     "subject": "Science", "scores": [72, 68, 75, 80]},
+    {"name": "Zaman",   "subject": "Math",    "scores": [95, 98, 92, 97]},
+    {"name": "Ahmad",   "subject": "History", "scores": [60, 65, 70, 58]},
+    {"name": "Abdullah",     "subject": "Science", "scores": [83, 87, 80, 90]},
 ]
 
 
